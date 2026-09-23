@@ -6,7 +6,8 @@ const messageElement = document.getElementById('message');
 // Array of friendly courseings
 const courses = [
     "INFM 109",
-    "SDEV 120"
+    "SDEV 120",
+    "SDEV 140"
 ];
 
 // Click event handler
